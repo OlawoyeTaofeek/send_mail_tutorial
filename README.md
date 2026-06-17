@@ -61,7 +61,9 @@ The script uses the built-in template, replaces `{name}` with the recipient name
 
 ## 📸 Output Preview
 
-![Birthday email preview](WhatsApp Image 2026-06-17 at 12.50.19.jpeg)
+The screenshot below shows the generated birthday email HTML rendered in an email client, including the festive banner, personalized greeting, and footer.
+
+![Birthday email preview](WhatsApp%20Image%202026-06-17%20at%2012.50.19.jpeg)
 
 ## 💡 Notes
 
